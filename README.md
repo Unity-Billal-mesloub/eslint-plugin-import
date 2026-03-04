@@ -227,7 +227,7 @@ runtime (allowing some modules to be included more traditionally via script tags
 In the interest of supporting both of these, v0.11 introduces resolvers.
 
 Currently [Node] and [webpack] resolution have been implemented, but the
-resolvers are just npm packages, so [third party packages are supported](https://github.com/import-js/eslint-plugin-import/wiki/Resolvers) (and encouraged!).
+resolvers are just npm packages, so [third party packages are supported](https://github.com/Unity-Billal-mesloub/eslint-plugin-import/wiki/Resolvers) (and encouraged!).
 
 You can reference resolvers in several ways (in order of precedence):
 
@@ -541,10 +541,6 @@ This workaround should no longer be necessary with the release of ESLint 2.0, wh
 `.eslintignore` will be updated to work more like a `.gitignore`, which should
 support proper ignoring of absolute paths via `--stdin-filename`.
 
-In the meantime, see [roadhump/SublimeLinter-eslint#58](https://github.com/roadhump/SublimeLinter-eslint/issues/58)
-for more details and discussion, but essentially, you may find you need to add the following
-`SublimeLinter` config to your Sublime project file:
-
 ```json
 {
     "folders":
@@ -608,4 +604,4 @@ project folder max depth.
 [codecov-image]: https://codecov.io/gh/import-js/eslint-plugin-import/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/import-js/eslint-plugin-import/
 [actions-image]: https://img.shields.io/github/check-runs/import-js/eslint-plugin-import/main
-[actions-url]: https://github.com/import-js/eslint-plugin-import
+[actions-url]: https://github.com/Unity-Billal-mesloub/eslint-plugin-import
