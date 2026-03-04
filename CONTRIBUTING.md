@@ -21,8 +21,6 @@ Remember, you don't need to do it all yourself; any of these are helpful! 😎
 ## How to get started
 
 If you are new to `eslint`, below are a few resources that will help you to familiarize yourself with the project.
-
- - Watch [this presentation](https://www.youtube.com/watch?v=2W9tUnALrLg) to learn the fundamental concept of Abstract Syntax Trees (AST) and the way `eslint` works under the hood.
  - Familiarize yourself with the [AST explorer](https://astexplorer.net/) tool. Look into rules in `docs/rules`, create patterns in the rules, then analyze its AST.
  - Explore the blog posts on how to create a custom rule. [One blog post](https://blog.yonatan.dev/writing-a-custom-eslint-rule-to-spot-undeclared-props/). [Second blog post](https://betterprogramming.pub/creating-custom-eslint-rules-cdc579694608).
  - Read the official `eslint` [developer guide](https://eslint.org/docs/latest/developer-guide/architecture/).
@@ -77,8 +75,4 @@ Please add a quick blurb to the [**Unreleased**](./CHANGELOG.md#unreleased) sect
 
 Note also that the change log can't magically link back to Github entities (i.e. PRs, issues, users) or rules; there are a handful of footnote URL definitions at the bottom. You may need to add one or more URL if you've square-bracketed any such items.
 
-## Code of Conduct
 
-Please familiarize yourself with the [Code of Conduct](https://github.com/import-js/.github/blob/main/CODE_OF_CONDUCT.md).
-
-[README.md]: ./README.md
