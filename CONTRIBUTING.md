@@ -46,8 +46,6 @@ This is a helpful contribution all by itself. Thanks!
 
 ## PRs
 
-If you would like to implement something, firstly: thanks! Community contributions are a magical thing. Like Redux or [the flux capacitor](https://youtu.be/SR5BfQ4rEqQ?t=2m25s), they make open source possible.
-
 **Working on your first Pull Request?**
 You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
