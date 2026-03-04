@@ -30,8 +30,4 @@ as at least `n-1` of them are clearly mistakes, but it is not clear which one
 (if any) is intended. Could be the result of copy/paste, code duplication with
 intent to rename, etc.
 
-## Further Reading
 
- - Lee Byron's [ES7] export proposal
-
-[ES7]: https://github.com/leebyron/ecmascript-more-export-from
