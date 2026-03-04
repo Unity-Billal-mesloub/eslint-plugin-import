@@ -188,12 +188,11 @@ Make sure you have installed [`@typescript-eslint/parser`] and [`eslint-import-r
 }
 ```
 
-[`@typescript-eslint/parser`]: https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser
-[`eslint-import-resolver-typescript`]: https://github.com/import-js/eslint-import-resolver-typescript
+[`@typescript-eslint/parser`]: https://github.com/Unity-Billal-mesloub/typescript-eslint/tree/HEAD/packages/parser
 
 ### Config - Flat with `config()` in `typescript-eslint`
 
-If you are using the `config` method from [`typescript-eslint`](https://github.com/typescript-eslint/typescript-eslint), ensure that the `flatConfig` is included within the `extends` array.
+If you are using the `config` method from [`typescript-eslint`](https://github.com/Unity-Billal-mesloub/typescript-eslint), ensure that the `flatConfig` is included within the `extends` array.
 
 ```js
 import tseslint from 'typescript-eslint';
