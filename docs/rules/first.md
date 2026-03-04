@@ -69,7 +69,7 @@ enable this rule.
 ## Further Reading
 
  - [`import/order`]: a major step up from `absolute-first`
- - Issue [#255]
+ - Issue [issues]
 
 [`import/order`]: ./order.md
-[#255]: https://github.com/import-js/eslint-plugin-import/issues/255
+[issues]: https://github.com/Unity-Billal-mesloub/eslint-plugin-import/issues/
